@@ -84,6 +84,6 @@
     "million": {
       "api": "https://api.bwzyz.com/api.php/provide/vod/at/json",
       "name": "百万"
-    },
+    }
   }
 }
