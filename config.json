@@ -81,9 +81,13 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "million": {
-      "api": "https://api.bwzyz.com/api.php/provide/vod/at/json",
-      "name": "百万"
+    "taohua": {
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+      "name": "桃花"
+    },
+    "forest": {
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "name": "森林"
     }
   }
 }
